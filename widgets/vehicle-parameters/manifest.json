@@ -6,7 +6,7 @@
     "dependency": "jimu-arcgis",
     "exbVersion": "1.8.0",
     "author": "James Cockbain",
-    "description": "For inputting vehicle parameters",
+    "description": "Widget for inputting vehicle parameters",
     "copyright": "",
     "license": "",
     "properties": {},
